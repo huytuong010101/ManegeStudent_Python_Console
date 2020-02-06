@@ -1,0 +1,6 @@
+Nguyen Van A;Female;DT4;10
+Nguyen Van C;Male;DT4;8
+Nguyen Van D;Male;DT1;6
+Nguyenx Van E;Female;Nhat2;9
+Nguyen Van F;Female;DT7;8
+Nguyen Van ahjhj;Male;DT2;8
